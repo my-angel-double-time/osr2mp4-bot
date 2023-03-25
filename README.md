@@ -1,4 +1,4 @@
-## This code is totally trash
+## DEPPRECATED
 
 You should edit the `constants.py` to get started.
 
